@@ -335,7 +335,7 @@ U 1 1 5CADF912
 P 5050 1100
 F 0 "L1" V 5235 1100 50  0000 C CNN
 F 1 "4.7uH" V 5144 1100 50  0000 C CNN
-F 2 "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P7.62mm_Horizontal_Vishay_IM-1" H 5050 1100 50  0001 C CNN
+F 2 "Inductor_SMD:L_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5050 1100 50  0001 C CNN
 F 3 "~" H 5050 1100 50  0001 C CNN
 	1    5050 1100
 	0    -1   -1   0   
